@@ -2,7 +2,7 @@
 A first version of the game inspired by Super hexagon and made by following [Brackeys'](https://www.youtube.com/watch?v=p8MzsDBI5EI&t=80s) tutorial.
 
 # Run in browser
-To view the running simulation visit [this link](https://adabarbulescu.github.io/Hexagon-2022-Unity-Game/).
+To view the running simulation visit [this link](https://adabarbulescu.github.io/Hexagon-Unity-Game-2022/).
 
 # Development Software
   * UnityHub v3.0.0
